@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AadityaJain16/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaJain16/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/AadityaJain16/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AadityaJain16/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/AadityaJain16/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AadityaJain16/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AadityaJain16/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
