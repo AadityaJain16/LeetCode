@@ -10,8 +10,9 @@ public:
             zero++;
             while(zero>1)
             {
-                if(nums[l]==0)
+                if(nums[l]==0){
                 zero--;
+                }
                 l++;
             }
             ans=max(ans,r-l);
