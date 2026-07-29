@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AadityaJain16/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AadityaJain16/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AadityaJain16/LeetCode/tree/master/0735-asteroid-collision) |
+| [1207-unique-number-of-occurrences](https://github.com/AadityaJain16/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AadityaJain16/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AadityaJain16/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AadityaJain16/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/AadityaJain16/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AadityaJain16/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
