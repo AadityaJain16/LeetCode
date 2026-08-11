@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AadityaJain16/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AadityaJain16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AadityaJain16/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AadityaJain16/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AadityaJain16/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AadityaJain16/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AadityaJain16/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AadityaJain16/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AadityaJain16/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/AadityaJain16/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AadityaJain16/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AadityaJain16/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
