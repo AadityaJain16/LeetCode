@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AadityaJain16/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AadityaJain16/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AadityaJain16/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AadityaJain16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AadityaJain16/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AadityaJain16/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AadityaJain16/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AadityaJain16/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AadityaJain16/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AadityaJain16/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaJain16/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AadityaJain16/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AadityaJain16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AadityaJain16/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AadityaJain16/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaJain16/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/AadityaJain16/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AadityaJain16/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AadityaJain16/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,8 +255,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AadityaJain16/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/AadityaJain16/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
